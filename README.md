@@ -19,4 +19,4 @@ This is Deployment Section
 
 ## Copyright
 
-This is copyright section
+This is copyright section.All rights reserved.
