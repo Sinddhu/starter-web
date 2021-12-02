@@ -16,3 +16,7 @@ This contribution section
 ## Deploy
 
 This Deployment Section
+
+## Copyright
+
+This copyright section
