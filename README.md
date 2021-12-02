@@ -10,3 +10,9 @@ This introduction Section
 Sample website with plenty of files for demos
 
 ## How to contribute
+
+This contribution section
+
+## Deploy
+
+This Deployment Section
