@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sindhu -- backend developer -- <twitter>
 
 # THANKS
 
