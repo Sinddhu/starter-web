@@ -11,5 +11,5 @@
 	for good course 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
+    HTML5, java, CSS3
     jQuery, Modernizr
